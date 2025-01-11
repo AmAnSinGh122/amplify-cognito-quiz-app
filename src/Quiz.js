@@ -18,17 +18,16 @@ function Quiz() {
       setIsCorrect(false);
     }
 
-    // Delay moving to the next question to allow the user to see feedback
     setTimeout(() => {
       const nextQuestion = currentQuestion + 1;
       if (nextQuestion < quizData.length) {
         setCurrentQuestion(nextQuestion);
-        setIsCorrect(null); // Reset for the next question
-        setSelectedAnswer(""); // Reset selected answer
+        setIsCorrect(null); 
+        setSelectedAnswer("");
       } else {
         setShowScore(true);
       }
-    }, 1000); // Adjust time as needed
+    }, 1000);
   };
 
   return (
