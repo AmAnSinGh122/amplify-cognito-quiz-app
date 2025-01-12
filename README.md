@@ -95,6 +95,9 @@ This project is a web application built with React.js, AWS Amplify (Gen 1), and 
 ![image](https://github.com/user-attachments/assets/d62cccd8-e8c2-4727-ac3a-ecf4f5f22684)
    - Amplify console showing CI/CD pipeline.
 ![image](https://github.com/user-attachments/assets/6c6492db-6e18-4b14-9cbc-82d2ec11585b)
+   - Users
+![image](https://github.com/user-attachments/assets/5f32334f-20b6-4734-b03f-93d0db9a1b04)
+
    - Quiz Screen
 ![image](https://github.com/user-attachments/assets/ed14578a-bddb-4d22-9521-352b96038358)
 ![image](https://github.com/user-attachments/assets/0308ea36-3c4f-4e8e-8aeb-4a45d639030c)
